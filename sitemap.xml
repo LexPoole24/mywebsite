@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/LexPoole24/mywebsite/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://lexpoole24.github.io/mywebsite/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/LexPoole24/mywebsite/</loc>
+<loc>https://lexpoole24.github.io/mywebsite/</loc>
 </url>
 <url>
-<loc>https://github.com/LexPoole24/mywebsite/2025-motogp-japanese-grand-prix.html</loc>
+<loc>https://lexpoole24.github.io/mywebsite/2025-motogp-japanese-grand-prix.html</loc>
 <lastmod>2025-10-22T08:39:54+02:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/LexPoole24/mywebsite/contact-us.html</loc>
+<loc>https://lexpoole24.github.io/mywebsite/contact-us.html</loc>
 <lastmod>2025-10-22T09:04:12+02:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/LexPoole24/mywebsite/formula-1s-rookie-sensation-andrea-kimi-antonelli.html</loc>
+<loc>https://lexpoole24.github.io/mywebsite/formula-1s-rookie-sensation-andrea-kimi-antonelli.html</loc>
 <lastmod>2025-10-22T08:39:37+02:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/LexPoole24/mywebsite/motorsport-daily.html</loc>
-<lastmod>2025-10-22T09:10:24+02:00</lastmod>
-</url>
-<url>
-<loc>https://github.com/LexPoole24/mywebsite/upcoming-grand-prix-f1andmotogp.html</loc>
+<loc>https://lexpoole24.github.io/mywebsite/upcoming-grand-prix-f1andmotogp.html</loc>
 <lastmod>2025-10-22T09:00:52+02:00</lastmod>
 </url>
 </urlset>

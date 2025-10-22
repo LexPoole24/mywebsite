@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Motorsport Daily",
     "description": "",
-    "home_page_url": "https://github.com/LexPoole24/mywebsite",
-    "feed_url": "https://github.com/LexPoole24/mywebsite/feed.json",
+    "home_page_url": "https://lexpoole24.github.io/mywebsite",
+    "feed_url": "https://lexpoole24.github.io/mywebsite/feed.json",
     "user_comment": "",
     "author": {
         "name": "LexPoole24"
